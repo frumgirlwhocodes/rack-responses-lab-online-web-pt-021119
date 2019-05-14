@@ -1,3 +1,3 @@
 class Application 
   
-  def class
+  def call(env)
